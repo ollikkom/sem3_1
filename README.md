@@ -15,18 +15,3 @@
 - [X] 9. Сгенирировать **Personal Token** с правами **gist** и сохранить его в файл
 - [X] A. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
-## Links
-
-- [Slack](https://slack.com)
-- [Google Sheets](https://www.google.ru/intl/ru/sheets/about/)
-- [Google Docs](https://www.google.ru/intl/ru/docs/about/)
-- [GitHub](https://github.com)
-- [GitHub SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
-- [Markdown](https://stackedit.io)
-- [Gist](https://gist.github.com)
-- [GitHub Personal Token](https://github.com/settings/tokens/new)
-
-
-```
-Copyright (c) 2017 Братья Вершинины
-```
